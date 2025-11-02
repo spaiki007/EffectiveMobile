@@ -85,8 +85,8 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <repository-url>
-cd test_project
+git clone git@github.com:spaiki007/EffectiveMobile.git
+cd EffectiveMobile
 ```
 
 ### 2. Установка зависимостей
